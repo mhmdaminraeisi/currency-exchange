@@ -1,0 +1,11 @@
+.container .exchange-button {
+    background-color: purple;
+    color: white;
+    width: 15em;
+    margin: 2em;
+    border-radius: 2em;
+
+    &:hover {
+        background-color: rgba(128, 0, 128, 0.7);
+    }
+}
